@@ -1,0 +1,15 @@
+# Garmin exports contain personal health data and the account email in file names.
+*.zip
+*.fit
+*.json
+
+# Build output
+.gradle/
+build/
+local.properties
+*.apk
+
+# OS / editors
+.DS_Store
+.idea/
+*.iml
